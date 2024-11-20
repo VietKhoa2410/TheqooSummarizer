@@ -6,6 +6,10 @@
 pip install bs4 openai seleniumbase python-dotenv
 ```
 
+### Setup environment
+- Create .env file
+- Add config OPEN_AI_KEY
+
 ### How to run
 ```
 .../summarier.py --id ID
