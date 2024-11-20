@@ -15,5 +15,5 @@ pip install bs4 openai seleniumbase python-dotenv
 .../summarier.py --id ID
 ```
 Example:
-https://theqoo.net/hot/3493749999
-=> ID = 3493749999
+https://theqoo.net/hot/3494143968
+=> ID = 3494143968
