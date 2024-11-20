@@ -1,5 +1,5 @@
 # TheqooSummarizer
-
+Collect articles from Theqoo, translate into Vietnamese and group common comments.
 
 ### Lib
 ```
