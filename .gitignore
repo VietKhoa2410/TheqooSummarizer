@@ -1,0 +1,4 @@
+.venv
+.env
+
+downloaded_files/*
